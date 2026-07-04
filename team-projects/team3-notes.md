@@ -20,7 +20,7 @@
 > **Instructions:** Both teammates edit this section on their own branches.
 > Do NOT coordinate your edits — the goal is to write different things.
 
-**git status**
+**git status because it's the only command that tells you ground truth about your repo state before you act.**
 
 _(Edit this line on your branch — your teammate will write something different)_
 
@@ -30,20 +30,4 @@ _(Edit this line on your branch — your teammate will write something different
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
-# Hi, we're Team 3! 👋
-
-## Team Members
-
-| Name | GitHub |
-|------|--------|
-| Kristina | Kristina-613 |
-| Rishika | rishi123-oss |
-| April | laewoonphyu |
-
-**Fun fact about our team:** <We’re cool>
-**Why we joined the Coding Club Github Workshop Event:** <To learn coding>
-
-## What we want to learn
-- <Coding>
-- <Proper  Coding>
+_(We weren't having a conflict so we asked for the help of the organizers. But we still didn't get a conflict.)
